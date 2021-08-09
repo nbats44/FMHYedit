@@ -41,7 +41,7 @@
 * [Exodus](https://reports.exodus-privacy.eu.org/en/) - *Android App Tracker &amp; Permission Index / [APK](https://github.com/Exodus-Privacy/exodus-android-app)*  
 * [TrackerControl](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/) - *Manage / Monitor Trackers*
 * [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard) - *Android 12-like Privacy Dashboard / [GitHub](https://github.com/RushikeshKamewar/PrivacyDashboard)*
-* [NetGuard](https://www.netguard.me/) - *Block Internet Access Per App* 
+* [NetGuard](https://www.netguard.me/) - *Block Internet Access Per App
 * [AFWall+](https://github.com/ukanth/afwall/) or [NoRoot Firewall](https://play.google.com/store/apps/details?id=app.greyshirts.firewall) - *Firewall* 
 * [Security Addon](https://github.com/huntmix/securityaddon) - *Set Triggers & Measures that protect your Phone*
 * [SuperFreezZ](https://f-droid.org/en/packages/superfreeze.tool.android) - *Freeze App Background Activities* 
